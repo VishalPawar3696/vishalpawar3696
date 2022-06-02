@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](vishalpawar3696)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdZw1oQTbkI3ltT80B_jZlpRR1arc_OpdTZg&usqp=CAU)](vishalpawar3696)
 <h1 align="center">Hi 👋, I'm Vishal Pawar</h1>
 <h3 align="center">A passionate MERN Stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
