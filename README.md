@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalpawar3696" alt="vishalpawar3696" /></a> </p>
 
-- 🌱 I’m currently learning **React,Redux**
+- 🌱 I’m currently learning **Spring MVC**
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML,CSS,Javascript,Java,Mysql**
 
-- 📫 How to reach me **vishalpawar3696@gmail.com**
+- 📫 How to reach me **vishalpawar9217@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
